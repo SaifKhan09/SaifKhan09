@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaifKhan09
 - 👀 I’m interested in Web Development and Mobile App Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Fast API
 - 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me : You can mail me on urrahmankhansaif@gmail.com
 
